@@ -1,0 +1,3 @@
+git "git@legitlab.letv.cn:FinalStep/FinalStep-Database.git" "V-F.1.1"
+git "git@legitlab.letv.cn:FinalStep/FinalStep-Network.git" "v1.0.8"
+github "SnapKit/SnapKit" ~> 3.2.0
